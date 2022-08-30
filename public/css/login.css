@@ -1,0 +1,19 @@
+body{
+    background-color:rgba(17, 2, 2, 0.116)!important;
+}
+
+.remove-focus {
+    box-shadow: none!important;
+    outline: none!important;
+}
+
+
+
+
+
+.custom-login {
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}

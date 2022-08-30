@@ -1,0 +1,16 @@
+body {
+   
+}
+
+.detail-img{
+    width: auto;
+    height: 200px;
+}
+.remove-focus {
+    box-shadow: none!important;
+    outline: none!important;
+}
+
+
+
+
